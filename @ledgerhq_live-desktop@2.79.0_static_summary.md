@@ -34,9 +34,11 @@
 
 <details>
     <summary>Other info:</summary>
-    - Source code repo is not hosted on github:  23 
+     
+- Source code repo is not hosted on github:  23 
 
-    - Name not match: 0 
+     
+- Name not match: 0 
 
 </details>
                       
@@ -243,9 +245,8 @@ For packages that are forks
 
 ---
 
-Report created by [dirty-waters](https://github.com/chains-project/dirty-waters/).
+Report created by [dirty-waters](https://github.com/chains-project/dirty-waters/) - version: commit.
 
-Report created on 2024-05-15 23:32:17
-- Tool version: x)
+Report created on 2024-05-16 00:41:25
 - Wallet Name: LedgerHQ/ledger-live
 - Wallet Version: @ledgerhq/live-desktop@2.79.0
