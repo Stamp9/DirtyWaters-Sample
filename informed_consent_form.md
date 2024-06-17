@@ -1,7 +1,7 @@
-# Informed Consent Form
+# Informed Consent Form - updated
 Thank you for your interest in participating in this interview, which is part of a master's thesis project at Stockholm University's Department of Computer and Systems Science (DSV) and the KTH Royal Institute of Technology CHAINS group. This research focuses on investigating the software supply chain transparency of cryptocurrency wallets.
 
-The interview is divided into three sections. The first section includes 5 questions aimed at understanding the current views of cryptocurrency wallet developers on their products. The second section, which consists of 12 questions, follows after the developer reviews the static analysis summary. The third section follows after the developer reviews the differential analysis summary. It aims to gather insights on the usefulness of the analysis and any suggestions from the developer's perspective. The entire interview will take approximately 45 minutes.
+The interview is divided into three sections. The first section includes 5 questions aimed at understanding the current views of cryptocurrency wallet developers on their products. The second section, which consists of 12 questions, follows after the developer reviews the static analysis summary. The third section consists of 6 questions, follows after the developer reviews the differential analysis summary. It aims to gather insights on the usefulness of the analysis and any suggestions from the developer's perspective. The entire interview will take approximately 45 minutes.
 
 The information provided in this interview will be collected, stored, and analyzed for this study. Please note that the interview will NOT be recorded; the interviewer will only take notes. Your name and any direct identifiers will not be used or shared with third parties at any time.
 
